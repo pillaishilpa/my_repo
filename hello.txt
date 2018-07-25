@@ -2,8 +2,5 @@
  Hello everyone
 adding changes to check commi without adding to stage
 few more entries to check
-<<<<<<< HEAD
 adding being in branch one
-=======
 adding to check new branch
->>>>>>> 289c1609d499598cc68833895632d7344377d573
