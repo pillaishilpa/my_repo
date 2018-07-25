@@ -2,3 +2,4 @@
  Hello everyone
 adding changes to check commi without adding to stage
 few more entries to check
+adding being in branch one
