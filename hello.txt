@@ -5,3 +5,4 @@ few more entries to check
 adding being in branch one
 adding to check new branch
 adding to check fetch and pull
+adding to check pull
